@@ -43,6 +43,6 @@ int main() {
             count++;
         }
     }
-    std::cout << count << " of " << N < "\n";
+    std::cout << count << " of " << N << "\n";
     return 0;
 }
